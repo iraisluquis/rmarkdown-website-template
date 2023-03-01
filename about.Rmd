@@ -2,6 +2,25 @@
 title: "About me"
 ---
 
-## Header
+## Background
 
-Say more about you here.
+I was born and raised in Puerto Rico.I did my bachelor degree in Animal Science at the University of Puerto Rico at Mayagüez (UPRM).As a marine scientist student, I want to address issues of concern to regulate major problems affecting the marine ecosystem of Puerto Rico.
+
+You can find me on [GitHub.](www.github.com/iraisluquis)
+
+## Master project
+
+I am currently developing my master project on the role of Diadema antillarum on coral reef herbivory and bioresion to maximaize the coral restoration efforts
+
+```{r, out.width="70%", echo=FALSE}
+knitr::include_graphics("GOPR0406.JPG")
+```
+
+
+
+
+
+
+
+
+

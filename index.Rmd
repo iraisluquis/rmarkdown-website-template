@@ -1,5 +1,17 @@
 ---
-title: "Welcome to my website!"
+title: "RMarkdown Website by Irais Luquis"
 ---
+This is a website for academic science to publicly share my code and science.
 
-You're up and running!
+
+## Hi there, I am Irais Luquis!
+
+```{r, out.width="100%", echo=FALSE}
+knitr::include_graphics("GOPR0344.JPG")
+```
+
+I am currently working on my master’s degree on marine sciences at the University of Puerto Rico, Mayagüez Campus. 
+ 
+
+[Read more about me...](about.html)
+
