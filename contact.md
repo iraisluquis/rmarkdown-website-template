@@ -2,6 +2,7 @@
 title: "About me"
 ---
 
-## Header
+## Contact information for further questions 
 
-Say more about you here.
+irais.luquis@upr.edu 
+

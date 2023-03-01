@@ -6,7 +6,7 @@ title: "About me"
 
 I was born and raised in Puerto Rico.I did my bachelor degree in Animal Science at the University of Puerto Rico at Mayagüez (UPRM).As a marine scientist student, I want to address issues of concern to regulate major problems affecting the marine ecosystem of Puerto Rico.
 
-You can find me on [GitHub.](www.github.com/iraisluquis)
+You can find me on [GitHub.](http://www.github.com/iraisluquis)
 
 ## Master project
 

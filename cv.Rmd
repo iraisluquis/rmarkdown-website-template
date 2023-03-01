@@ -1,9 +1,7 @@
 ---
 title: "CV"
 ---
+## Click link to download CV.
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="Irais Luquis-Ramos CVs.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
-## Header
-
-Say more about your CV here.
